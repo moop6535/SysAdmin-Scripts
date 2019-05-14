@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Copyright (C) 2017 Moop <mpaxmei@gmail.com>
+# Copyright (C) 2017 Michael Mei <mpaxmei@gmail.com>
 # Permission to use, copy, modify, and distribute this software and
 # its documentation for any purpose and without fee is hereby granted,
 # without any conditions or restrictions. This software is provided
@@ -8,7 +8,7 @@
 
 #
 # Lemp.sh -- Automated LEMP install for Ubuntu 
-# Author: Moop
+# Author: Michael Mei
 # Version: 1.0.0
 # Note: Only designed for Ubuntu 14 & 16!
 #
